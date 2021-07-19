@@ -12,6 +12,9 @@ Hey! this is a project designed to give you more FPS in games like: Roblox, Mine
 Syntax highlighted code block
 
 # Header 1
+
+Hey! this is a project designed to give you more FPS in games like: Fortnite, Minecraft, Roblox, CSGO, Fortnite, GTA and More!
+
 ## Header 2
 ### Header 3
 
