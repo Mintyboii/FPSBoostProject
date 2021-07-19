@@ -1,5 +1,3 @@
-## FPS Boost Project
-
 ### Information
 
 Hey! this is a project designed to give you more FPS in games like: Roblox, Minecraft, Valorant, CSGO, Fortnite and more!
