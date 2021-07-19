@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/Mintyboii/Mintyboii.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Hey! this is a project designed to give you more FPS in games like: Roblox, Minecraft, Valorant, CSGO, Fortnite and more!
 
 ```markdown
 Syntax highlighted code block
