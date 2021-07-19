@@ -7,8 +7,8 @@ Download the files with the "Download ZIP" button and you should extract them. (
 
 ### Creator
 
-YouTube Channel: https://www.youtube.com/c/mintrb
+YouTube Channel: www.youtube.com/c/mintrb
 
 Discord: Minty#0046
 
-Discord Server: https://dsc.gg/mintyshub
+Discord Server: dsc.gg/mintyshub
